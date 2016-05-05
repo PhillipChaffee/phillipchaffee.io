@@ -28,4 +28,4 @@ ghost().then(function (ghostServer) { //Start ghost
 }); //Start ghost
 
 //Listen
-parentApp.listen(process.env.PORT || 3000);
+parentApp.listen(process.env.PORT || 2367);
