@@ -1,0 +1,23 @@
+/* Less than 768px styles */
+
+
+/* 768px to 992px styles */
+@media (min-width: 768px) {
+    #name {
+        font-size: 100px;
+    }
+}
+
+/* 992px to 1200px styles */
+@media (min-width: 992px) {
+    #name {
+        font-size: 100px;
+    }
+}
+
+/* 1200px and up styles */
+@media (min-width: 1200px) {
+    #name {
+        font-size: 100px;
+    }
+}
