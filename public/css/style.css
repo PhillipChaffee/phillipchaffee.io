@@ -1,5 +1,10 @@
-/* Less than 768px styles */
+body {
+  font-family: 'Roboto Slab', serif;
+}
 
+.fa-5x {
+  padding: 10px;
+}
 
 /* 768px to 992px styles */
 @media (min-width: 768px) {
