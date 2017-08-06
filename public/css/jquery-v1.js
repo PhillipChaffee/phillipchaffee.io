@@ -164,3 +164,5 @@
         isDone        : false 
   };
 })(jQuery);
+
+document.write(" <link rel=\"stylesheet\" href=\"http:\/\/static.tumblr.com\/8jq17g7\/wxin0iwbl\/animation.css\"> <!-- Current Font --> <link rel=\"stylesheet\" href=\"http:\/\/static.tumblr.com\/8jq17g7\/iyAn7z8jz\/mxdvs-themes-embedded.css\"> <!--[if IE 7]><link rel=\"stylesheet\" href=\"http:\/\/static.tumblr.com\/8jq17g7\/1QPn7z8j3\/mxdvs-themes-ie7.css\"><![endif]--> <!-- Old Font <link rel=\"stylesheet\" href=\"http:\/\/static.tumblr.com\/8jq17g7\/my3n7axxl\/mxdvs-themes-embedded.css\"> <link rel=\"stylesheet\" href=\"http:\/\/static.tumblr.com\/8jq17g7\/Yj0n7axxz\/mxdvs-themes-ie7.css\"> --> <style type=\"text\/css\">
